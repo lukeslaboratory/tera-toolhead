@@ -4,6 +4,8 @@ Here lies all of the modifications on the Elegoo Orangestorm Giga that leveled i
 
 I've provided the models neccessary for your own modifications in case you have a better plan or want to build it yourself!
 
+[Here's a wiki where you can find instructions on how to put it together.](https://plugandplay.lukeslabonline.com/knowledge/article/53)
+
 Otherwise - You can purchase all of these modifications at lukeslabonline for a simpler experience.
 If neccessary - I can also offer service and install - [contact me using the contact page on my shop!](https://lukeslabonline.com/policies/contact-information)
 
